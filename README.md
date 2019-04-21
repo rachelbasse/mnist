@@ -1,0 +1,2 @@
+# mnist
+Classifying handwritten digits
